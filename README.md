@@ -1,3 +1,7 @@
+# Applied patches by ivyTeam
+
+* #2337 [Duplicated columns in DataTable](https://github.com/primefaces/primefaces/issues/2337)
+
 # PrimeFaces
 
 This is an overview page, please visit [PrimeFaces.org](http://www.primefaces.org) for more information.
